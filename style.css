@@ -1,0 +1,119 @@
+.type {
+    color: blueviolet !important;
+    text-align: left;
+
+}
+.type2{
+    color: blueviolet !important;
+    text-align: left;
+    margin-left: 35px;
+
+}
+
+.type1 {
+    text-align: left;
+    margin-left: 40px;
+}
+
+.btn {
+    background-color: blueviolet !important;
+    color: white;
+    border-radius: 14px;
+    margin-left: 30px;
+}
+
+.con {
+    background-color: rgba(240, 236, 249, 1)!important;
+    border-radius: 0 0 300px 0;
+
+}
+.con4{
+    background-color: rgba(240, 236, 249, 1)!important;
+    margin-bottom: 30px;
+    
+
+}
+.con1{
+    background-color: rgba(240, 236, 249, 1)!important;
+    border-radius: 0 0 300px 0;
+    margin-top: 40px;
+
+}
+
+.head {
+    margin-top: 60px;
+}
+.head1{
+    margin-top: 10px;
+    font-size: 40px;
+    color: blueviolet;
+    margin-left: 40px;
+}
+
+.card1 {
+    margin: 20px;  width: 300px ;
+    overflow: hidden; border: none;
+}
+.card2{
+    margin: 20px;  width: 250px ;
+    overflow: hidden; border: none;
+}
+.card3 {
+    margin: 20px;  width: 250px ;
+    overflow: hidden; border: none;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 100px;
+    margin: 0;
+    padding: 0;}
+
+.box13{
+    margin-top: 60px;
+    margin-left: 30px;
+
+}
+.box14{
+    margin-top: 20px;
+    margin-left: 30px;
+    
+}
+.box21{
+    margin-left: 30px;
+}
+.box22{
+    margin-left: 30px;
+}
+.card11{
+    width: 50%;
+    margin-top: 50px;
+    margin-left: 80px;
+}
+h6{
+    color: rgba(152, 152, 152, 1);
+
+}
+.im{
+    margin-right: 10px;
+}
+.head3{
+    font-size: large;
+    color: blueviolet;
+}
+.div2{
+    margin-top: 50px;
+}
+  
+.list1{
+    list-style: none;
+    color: blueviolet;
+}
+.text1{
+    color: blueviolet;
+}
+ 
